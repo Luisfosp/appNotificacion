@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "446725416914",
+    "project_id": "notificacionapp-f8789",
+    "storage_bucket": "notificacionapp-f8789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446725416914:android:1d0801bf9c4c5cc565ca0b",
+        "android_client_info": {
+          "package_name": "com.example.notificaion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446725416914-o79n4r0npqa45gbgkbj4u3ejleifsbpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtCSv_m0YXB47ZWT1f84yYu1jL7Jt2eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446725416914-o79n4r0npqa45gbgkbj4u3ejleifsbpu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446725416914-a6btufr1on51p6mr3gc5d9q7tmn7fdj0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneNotif.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446725416914:android:2cb085e7d0762dbc65ca0b",
+        "android_client_info": {
+          "package_name": "com.example.phone_notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446725416914-o79n4r0npqa45gbgkbj4u3ejleifsbpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtCSv_m0YXB47ZWT1f84yYu1jL7Jt2eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446725416914-o79n4r0npqa45gbgkbj4u3ejleifsbpu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446725416914-a6btufr1on51p6mr3gc5d9q7tmn7fdj0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneNotif.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
